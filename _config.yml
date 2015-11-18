@@ -1,15 +1,15 @@
 baseurl: /
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-timezone: Asia/Shanghai
+timezone: Asia/beijing
 
-home: http://www.barretlee.com/
-demo: http://demo.barretlee.com/
-base: http://snippets.barretlee.com
-weibo: http://weibo.com/173248656
+home: http://www.baidu.com/
+demo: http://www.baidu.com/
+base: http://www.sohu.com
+weibo: http://weibo.com/
 edit_path: https://github.com/lll19870828/snippets/edit/gh-pages
 new_path: https://github.com/lll19870828/snippets/new/gh-pages/snippets
 author: jack lee
 author_en: Barret Lee
-email: barret.china@gmail.com
-author_info: <a href="http://www.barretlee.com">小胡子哥</a>
+email: lll19870828@sohu.com
+author_info: <a href="http://www.baidu.com">jack lee</a>
