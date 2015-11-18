@@ -249,7 +249,7 @@ var Snippet = {
     // codebox.style.background = "url(http://www.barretlee.com/blogimgs/loading.gif) no-repeat center center";
     self.updateProgress(Math.floor(Math.random() * 20) + 10);
     with(new XMLHttpRequest) {
-      open("GET", url + "?_t=" + new Date()*1);
+      open("GET", window.location.pathname + url + "?_t=" + new Date()*1);
       onreadystatechange = function(){
         if(readyState == 4) {
           self.updateProgress(Math.floor(Math.random() * 30) + 40);
